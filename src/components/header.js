@@ -9,7 +9,7 @@ export default function Header() {
         className="header--image"
       />
       <h2 className="header--title">Meme Generator</h2>
-      <h4 className="header--project">Additional Info</h4>
+      <h4 className="header--project">HD</h4>
     </header>
   );
 }
